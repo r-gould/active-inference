@@ -1,3 +1,5 @@
+# Active Inference
+
 Application of active inference to reinforcement learning.
 
 Based on repo https://github.com/alec-tschantz/rl-inference to compare their approach vs mine.
