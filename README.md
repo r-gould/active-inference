@@ -10,3 +10,7 @@ Derivation of approach and results can be found at: https://r-gould.github.io/20
   <img src="images/figure_1.png" width="45%" />
   <img src="images/figure_2.png" width="45%" />
 </p>
+
+TODO:
+* Big refactors
+* Look at performance across more environments
